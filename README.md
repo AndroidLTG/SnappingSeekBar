@@ -20,6 +20,7 @@ You can also download the sample app in the Google Play Store: [demo](https://pl
  - set up everything properly and the seek bar does the rest for you
  
 ##Usage
+ -  compile 'com.github.tobiasbuchholz:snappingseekbar:1.0.1'
  
 ####In xml use the following attributes:
 
